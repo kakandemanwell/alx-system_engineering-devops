@@ -1,1 +1,2 @@
-#!/bin/bash\nless /etc/passwd
+#!/bin/bash
+less /etc/passwd
