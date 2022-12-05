@@ -4,3 +4,4 @@
 3-twofiles -checks content of two files 
 4-lastlines -displays the last ten lines in the file
 5-firstlines -displays the first five lines in a file
+6-third_line -returs the third line in the file
