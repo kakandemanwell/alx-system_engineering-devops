@@ -3,3 +3,4 @@
 2-hellofile -checks the contents of the filr in etc/passwd
 3-twofiles -checks content of two files 
 4-lastlines -displays the last ten lines in the file
+5-firstlines -displays the first five lines in a file
