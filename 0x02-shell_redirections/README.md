@@ -13,3 +13,4 @@
 12-newest_fies -lists the first 10 newest directories
 13-unique - prints uniq files
 14-findthatword -finds the word root
+14-countthatword -counts the no, of appearance of bin
