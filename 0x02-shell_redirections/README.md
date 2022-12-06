@@ -12,3 +12,4 @@
 11-directories -lists the no. of dirctories 
 12-newest_fies -lists the first 10 newest directories
 13-unique - prints uniq files
+14-findthatword -finds the word root
