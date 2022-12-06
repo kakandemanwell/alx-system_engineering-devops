@@ -14,3 +14,4 @@
 13-unique - prints uniq files
 14-findthatword -finds the word root
 14-countthatword -counts the no, of appearance of bin
+16-whatsnext -displays a set of characters
