@@ -9,3 +9,4 @@
 8-cwd_state -write list results
 9-duplicate_last_line
 10-o_more_js -deleted all ,js files
+11-directories -lists the no. of dirctories 
