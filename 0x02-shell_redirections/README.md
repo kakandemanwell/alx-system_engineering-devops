@@ -16,3 +16,4 @@
 14-countthatword -counts the no, of appearance of bin
 16-whatsnext -displays a set of characters
 16-whatsnext -displays all the lines in the file that do not contain the patterh bin
+18-letteroly -display all lines of the filestarting with a letter including capital letters
