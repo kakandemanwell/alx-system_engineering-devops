@@ -6,3 +6,4 @@
 5-firstlines -displays the first five lines in a file
 6-third_line -returs the third line in the file
 7-file -contains a shell script
+8-cwd_state -write list results
