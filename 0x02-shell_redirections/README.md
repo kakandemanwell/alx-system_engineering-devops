@@ -10,3 +10,4 @@
 9-duplicate_last_line
 10-o_more_js -deleted all ,js files
 11-directories -lists the no. of dirctories 
+12-newest_fies -lists the first 10 newest directories
