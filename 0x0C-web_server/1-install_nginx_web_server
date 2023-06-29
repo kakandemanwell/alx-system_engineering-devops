@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# SCipt installs nginx server,
+# has it listen on port 80
+# and renders Hello world!
+
+#update system and install nginx
+apt-get update
+apt-get -y install nginx
+ufw allow 'Nginx HTTP'
+echo "Hello World!" > /var/www/html/index.html
+#restart nginx
+service nginx restart

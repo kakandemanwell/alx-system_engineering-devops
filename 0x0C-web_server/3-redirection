@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+REDIRECT="\n\tlocation /redirect_me {\n\t\treturn 301 https://g.co/kgs/tzCmkL; \n\t}\n"
+
+apt-get -y update
+apt-get -y install nginx
+ufw allow 'Nginx HTTP'
+echo "Hello World!" > /var/www/html/index.html
+sed -i "37i\ $REDIRECT" "/etc/nginx/sites-available/default"
+service nginx restart
