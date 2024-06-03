@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # loops indefinitely using a while loop prints to infinty and beyond.
+
 while true; do
   echo "To infinity and beyond"
   sleep 2
