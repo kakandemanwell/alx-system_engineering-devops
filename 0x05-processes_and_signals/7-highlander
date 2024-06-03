@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#Displays a message indefinitly when ececuting ad also at SIGTERM
 while true: do
   trap 'echo "I am invincible!!!"' SIGTERM
   echo "To infinity and beyond"

@@ -1,5 +1,3 @@
 #!/usr/bin/envn bash
-
-process=$(ps -aux)
-
-echo "$process"
+# Displays currently running processes.
+ps -auxf

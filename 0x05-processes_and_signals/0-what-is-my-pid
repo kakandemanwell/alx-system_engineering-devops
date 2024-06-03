@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
-
-script_pid="$$"
-
-echo "$script_pid"
+# This displays the PID of this very file.
+echo $$

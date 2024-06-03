@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
+# Displays PID of bash
 echo "$(ps -auxf | grep bash)"
 # shellcheck disable=SC2009
