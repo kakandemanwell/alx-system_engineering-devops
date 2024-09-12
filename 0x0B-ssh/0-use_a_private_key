@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-#private_key="~/.ssh/school"
-private_key="~/home/red/id_rsa"
+private_key="~/.ssh/school"
 
 username="ubuntu"
 
