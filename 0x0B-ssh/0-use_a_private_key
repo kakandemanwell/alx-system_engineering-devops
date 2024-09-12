@@ -1,0 +1,10 @@
+#!/bin/bash
+
+#private_key="~/.ssh/school"
+private_key="~/home/red/id_rsa"
+
+username="ubuntu"
+
+server="34.224.6.97"
+
+ssh -i "$private_key" "$username@$server"
